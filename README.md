@@ -1,10 +1,8 @@
-# Springboot-thymeleaf
-Projeto de cadastro de contas com SpringBoot
-
-
+# Cadastro de contas
 # dependencias do projeto
 - SpringDevTools
-- Jpa Repository
+- Spring Web
+- Spring JPA
 - hibernate
 - thymeleaf
 - Bootstrap
